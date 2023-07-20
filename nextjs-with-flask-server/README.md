@@ -41,7 +41,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the app.
-
-## Limitations
-
-The app may sometimes generate answers that are not in the files, or hallucinate about the existence of files that are not uploaded.
